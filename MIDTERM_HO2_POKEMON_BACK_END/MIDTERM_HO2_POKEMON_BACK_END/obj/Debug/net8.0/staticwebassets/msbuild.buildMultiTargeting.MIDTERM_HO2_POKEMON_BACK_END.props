@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MIDTERM_HO2_POKEMON_BACK_END.props" />
+</Project>

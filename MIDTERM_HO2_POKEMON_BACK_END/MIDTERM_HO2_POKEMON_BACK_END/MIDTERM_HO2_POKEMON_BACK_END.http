@@ -1,0 +1,6 @@
+@MIDTERM_HO2_POKEMON_BACK_END_HostAddress = http://localhost:5262
+
+GET {{MIDTERM_HO2_POKEMON_BACK_END_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
